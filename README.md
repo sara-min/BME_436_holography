@@ -16,3 +16,10 @@ You can 'git add' changes and 'git commit' as you please on your personal branch
 In order to get the most recent version of main, call 'git pull' on your main branch
 
 
+## Virtual Environment Stuff
+For macs:
+'''
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+'''
